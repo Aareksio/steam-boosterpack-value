@@ -9,4 +9,4 @@ If you're using Chrome, you will need to install [Tampermonkey](https://chrome.g
 
 Licensed under GPLv3.
 
-[![Install](https://i.imgur.com/hKHfyWz.png)](https://google.com/)
+[![Install](https://i.imgur.com/hKHfyWz.png)](https://github.com/Aareksio/steam-boosterpack-value/raw/master/boosterpack-value.user.js)
